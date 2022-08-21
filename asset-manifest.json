@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-practice-order-drink/static/css/main.733653b0.css",
+    "main.js": "/react-practice-order-drink/static/js/main.7c005d32.js",
+    "index.html": "/react-practice-order-drink/index.html",
+    "main.733653b0.css.map": "/react-practice-order-drink/static/css/main.733653b0.css.map",
+    "main.7c005d32.js.map": "/react-practice-order-drink/static/js/main.7c005d32.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.733653b0.css",
+    "static/js/main.7c005d32.js"
+  ]
+}
